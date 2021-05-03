@@ -48,9 +48,11 @@ const init = function (data) {
         initTitle()
     );
 
+    /*
     root.addEventListener(EventType.click, () => {
         stopAnimation();
     });
+    */
 
     addTrack("res/music_map.ogg", "maintheme");
 
