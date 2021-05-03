@@ -1,0 +1,22 @@
+{
+    "ver": "0.03.0",
+    "date": "2016-09-04",
+    "loc": [
+        {
+            "name": "Saga Financial", "res": "bank01",
+            "x": 708, "y": 198, "width": 113, "height": 120
+        },
+        {
+            "name": "Planet Thiccness",
+            "bgs": "Exercise room"
+        },
+        {
+            "name": "Diane’s house",
+            "bgs": "Garden;Kitchen"
+        },
+        {
+            "name": "School",
+            "bgs": "First floor - Hall"
+        }
+    ]
+}

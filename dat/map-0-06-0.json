@@ -1,0 +1,22 @@
+{
+    "ver": "0.06.0",
+    "date": "2016-09-26",
+    "loc": [
+        {
+            "name": "Saga Financial",
+            "bgs": "Lobby"
+        },
+        {
+            "name": "Library",
+            "bgs": "Reading room"
+        },
+        {
+            "name": "Hillside Mall",
+            "bgs": "Consum-R (simple menu)"
+        },
+        {
+            "name": "Pool",
+            "bgs": "Pool;changing room;medic room"
+        }
+    ]
+}

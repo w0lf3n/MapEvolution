@@ -1,0 +1,69 @@
+{
+    "ver": "0.10.0",
+    "loc": [
+        {
+            "id": "bank", "res": "bank01", "name": "Saga Financial",
+            "x": 708, "y": 198, "width": 113, "height": 120
+        },
+        {
+            "id": "basketball_court", "res": "basketball_court01", "name": "Basketball court",
+            "x": 417, "y": 220, "width": 57, "height": 81 
+        },
+        {
+            "id": "beach", "res": "beach01", "name": "Basketball court",
+            "x": 204, "y": 570, "width": 108, "height": 97
+        },
+        {
+            "id": "dealership", "res": "dealership01", "name": "Saga Dealership",
+            "x": 104, "y": 176, "width": 134, "height": 84},
+
+        {
+            "id": "eriks_house", "res": "eriks_house01", "name": "Erik’s house",
+            "x": 728, "y": 593, "width": 89, "height": 98},
+        {
+            "id": "gym", "res": "gym_front01", "name": "Planet Thiccness",
+            "x": 851, "y": 320, "width": 135, "height": 130
+        },
+
+        {
+            "id": "hospital", "res": "hospital01", "name": "Summerville General Hospital",
+            "x": 342, "y": 499, "width": 100, "height": 113},
+        {
+            "id": "library", "res": "library01", "name": "Library",
+            "x": 697, "y": 323, "width": 134, "height": 116
+        },
+        {
+            "id": "mall", "res": "mall_parking_lot01", "name": "Hillside Mall",
+            "x": 791, "y": 79, "width": 203, "height": 138
+        },
+        {
+            "id": "mias_house", "res": "mias_house01", "name": "Mia’s house",
+            "x": 621, "y": 592, "width": 84, "height": 115
+        },
+        {
+            "id": "park", "res": "park01", "name": "Park",
+            "x": 310, "y": 179, "width": 102, "height": 93
+        },
+        {
+            "id": "pier", "res": "pier01", "name": "Pier",
+            "x": 58, "y": 529, "width": 77, "height": 130
+        },
+        {
+            "id": "pizzeria", "res": "pizzeria_exterior01", "name": "Tony’s Pizza",
+            "x": 98, "y": 338, "width": 118, "height": 106
+        },
+        {
+            "id": "pool", "res": "pool01", "name": "Pool",
+            "x": 462, "y": 578, "width": 110, "height": 131
+        },
+
+        {
+            "id": "tattoo_parlor", "res": "tattoo_parlor01", "name": "Sugar Tats",
+            "x": 259, "y": 47, "width": 82, "height": 99
+        },
+        {
+            "id": "warehouse", "res": "warehouse01", "name": "Warehouse",
+            "x": 110, "y": 58, "width": 110, "height": 110
+        }
+    ]
+}

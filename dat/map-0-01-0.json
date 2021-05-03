@@ -1,0 +1,26 @@
+{
+    "ver": "0.01.0",
+    "date": "2016-08-18",
+    "map": {
+        "width": 1024,
+        "height": 768,
+        "src": "map-0-01-0"
+    },
+    "loc": [
+        {
+            "name": "Diane’s house", "res": "dianes_front_yard01",
+            "x": 468, "y": 62, "width": 75, "height": 108
+        },
+        {
+            "name": "Home", "res": "home01",
+            "x": 837, "y": 613, "width": 97, "height": 79,
+            "bgs": "MC’s bedroom;Hallway;Shower (peek on Jenny)",
+            "info": "Telescope to spy on Erik, Mia & Tammy"
+        },
+        {
+            "name": "School", "res": "school_frontyard01", 
+            "x": 407, "y": 233, "width": 215, "height": 218,
+            "bgs": "First floor - Hall;First floor - French classroom;First floor - Courtyard"
+        }
+    ]
+}

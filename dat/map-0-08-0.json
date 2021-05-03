@@ -1,0 +1,22 @@
+{
+    "ver": "0.08.0",
+    "date": "2016-11-05",
+    "loc": [
+        {
+            "name": "Diane’s house",
+            "bgs": "Shed"
+        },
+        {
+            "name": "Erik’s house",
+            "bgs": "Basement;Entrance"
+        },
+        {
+            "name": "Planet Thiccness",
+            "bgs": "Exercise room;Yoga room"
+        },
+        {
+            "name": "Home",
+            "bgs": "Debbie’s bedroom;Debbie’s drawer;Jenny’s computer (login screen)"
+        }
+    ]
+}

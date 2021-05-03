@@ -1,0 +1,31 @@
+{
+    "ver": "0.05.0",
+    "date": "2016-09-19",
+    "loc": [
+        {
+            "name": "Erik’s house",
+            "bgs": "Front yard"
+        },
+        {
+            "name": "Hillside Mall", "res": "mall_parking_lot01",
+            "x": 791, "y": 79, "width": 203, "height": 138,
+            "bgs": "First floor"
+        },
+        {
+            "name": "Mia’s house",
+            "bgs": "Front yard"
+        },
+        {
+            "name": "Park",
+            "bgs": "Park"
+        },
+        {
+            "name": "Home",
+            "bgs": "Kitchen"
+        },
+        {
+            "name": "School",
+            "bgs": "First floor - Front (blurry)"
+        }
+    ]
+}

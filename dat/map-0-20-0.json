@@ -1,0 +1,10 @@
+{
+    "ver": "0.20.0",
+    "res": "map-0-20-0",
+    "loc": [
+        {
+            "id": "apartment", "res": "apt01", "name": "Apartments",
+            "x": 359, "y": 624, "width": 88, "height": 130
+        }
+    ]
+}

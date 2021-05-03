@@ -1,0 +1,182 @@
+
+@import url(../lib/gui.css);
+
+@keyframes IntroZoomIn {
+    from { scale: 0; rotate: 0deg; }
+    to { scale: 1.2; rotate: 720deg; }
+}
+
+.Application {
+    background-image: linear-gradient(135deg,#090a0f 0%,#3f4562 100%);
+}
+
+.Icon.Target::before {
+    color: #410200;
+}
+.Icon.Task::before {
+    color:#136207;
+}
+.Icon.Lock::before {
+    color: #00008b;
+}
+.Icon.Text::before {
+    font-size: 0.8em;
+}
+
+.Welcome {
+    width: 1024px;
+    height: 768px;
+    background-image: url("../res/summertimesaga_title.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #ffffff;
+}
+.Welcome .Unofficial {
+    font-size: 2.4em;
+    background-clip: text;
+    background-image: linear-gradient(to bottom, #59f9df, #0573f3);
+    position: absolute;
+    left: 365px;
+    top: 255px;
+    font-weight: bold;
+    color: transparent;
+    transform: rotate(-8deg);
+}
+.Welcome .Subtitle {
+    font-size: 3em;
+    background-clip: text;
+    background-image: linear-gradient(to bottom, #ffd23b 45%, #fe8b3e 60%);
+    position: absolute;
+    left: 350px;
+    top: 490px;
+    font-weight: bold;
+    color: transparent;
+    transform: rotate(-8deg);
+    scale: 0;
+    animation: IntroZoomIn 1s ease-in-out 0.1s forwards
+}
+.Welcome .Buttons {
+    position: absolute;
+    bottom: 0;
+    width: 90%;
+    display: flex;
+    justify-content: space-around;
+    padding: 5%;
+}
+.Welcome .Buttons button {
+    cursor: pointer;
+    transition: scale 0.5s;
+    border: none;
+    font-size: 4em;
+    background: none;
+    padding: 0;
+}
+.Welcome .Buttons button:hover {
+    scale: 1.2;
+}
+
+.TitleBox {
+    background-image: linear-gradient(to right, transparent, rgba(255, 255, 255, 0.8) 25% 75%, transparent);
+    padding: 10px 0;
+    font-size: 2em;
+    font-family: serif;
+    text-shadow: 2px 2px #ffffff;
+    opacity: 0;
+    transition: opacity 0.5s;
+    display: flex;
+    flex-flow: column;
+    width: 70%;
+    align-items: center;
+    font-size: 2em;
+    gap: 5px;
+}
+.TitleBox .Main {
+    font-size: 1.2em;
+    font-family: sans;
+}
+.TitleBox .Sub {
+
+}
+.TitleBox .Info {
+    font-size: 0.7em;
+}
+
+.Maps {
+    overflow: hidden;
+    transition: opacity 0.5s;
+    opacity: 0;
+}
+
+.Maps .Legend {
+    position: absolute;
+    background-color: rgba(255, 255, 255, 0.9);
+    z-index: 1;
+    padding: 1px 2px;
+}
+.Maps .Legend .Icon::before {
+    margin-right: 1px;
+}
+.Maps .Legend .Icon:not(:last-child) {
+    margin-right: 6px;
+}
+
+.Maps .Map {
+    position: absolute;
+    transition: opacity 1s;
+    background-repeat: no-repeat;
+}
+
+.Locations .Location {
+    position: absolute;
+    transition: opacity 1s, transform 1s;
+    background-repeat: no-repeat;
+    opacity: 0;
+}
+
+.Marker {
+    position: absolute;
+    padding: 5px;
+    outline: 10px solid rgba(255,0,0,0.8);
+    transform: translate(-5px, -5px);
+    opacity: 0;
+    transition: opacity 0.5s;
+    z-index: 1;
+}
+
+.TextBox {
+    position: absolute;
+    background: #ffffff;
+    padding: 10px;
+    box-shadow: 4px 4px 4px rgba(0,0,0,0.5);
+    font-size: 1.2em;
+    text-shadow: 1px 1px #ffffff;
+    opacity: 0;
+    transition: opacity 0.5s;
+}
+.TextBox .Title {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    border-bottom: 3px solid #000;
+}
+.TextBox .Information {
+    margin: 0;
+}
+.TextBox .Information p {
+    margin: 0;
+}
+.TextBox .Information .Target,
+.TextBox .Information .Task {
+    margin-right: 3px;
+}
+
+.Credits .Content {
+    background: rgba(255, 255, 255, 0.8);
+    font-size: 2em;
+    padding: 10px 20px;
+    text-shadow: 2px 2px #ffffff;
+    /*box-shadow: 4px 4px 4px rgba(0,0,0,0.5);*/
+}
+.Credits .Content.Copyright {
+    font-size: 1.6em;
+}

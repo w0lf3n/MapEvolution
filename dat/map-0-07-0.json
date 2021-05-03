@@ -1,0 +1,18 @@
+{
+    "ver": "0.07.0",
+    "date": "2016-10-17",
+    "loc": [
+        {
+            "name": "Saga Financial",
+            "bgs": "ATM (deposit only)"
+        },
+        {
+            "name": "Library",
+            "bgs": "Back room"
+        },
+        {
+            "name": "School",
+            "bgs": "Second floor - Cafeteria;First floor - Boys’ locker showers"
+        }
+    ]
+}

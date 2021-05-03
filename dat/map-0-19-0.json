@@ -1,0 +1,18 @@
+{
+    "ver": "0.19.0",
+    "res": "map-0-19-0",
+    "loc": [
+        {
+            "id": "hospital", "res": "hospital02", "name": "Summerville General Hospital",
+            "x": 330, "y": 486, "width": 112, "height": 140
+        },
+        {
+            "id": "mall", "res": "mall_parking_lot02", "name": "Hillside Mall",
+            "x": 791, "y": 79, "width": 203, "height": 138
+        },
+        {
+            "id": "tattoo_parlor", "res": "tattoo_parlor02", "name": "Sugar Tats",
+            "x": 258, "y": 50, "width": 83, "height": 96
+        }
+    ]
+}

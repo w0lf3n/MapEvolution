@@ -1,0 +1,14 @@
+{
+    "ver": "0.04.0",
+    "date": "2016-09-12",
+    "loc": [
+        {
+            "name": "Home",
+            "bgs": "Jenny’s bedroom;Jenny’s bedside table"
+        },
+        {
+            "name": "School",
+            "bgs": "First floor - Left hallway;First floor - Boys’ locker room;Second floor - Hallway;Second floor - Mrs. Smith’s office"
+        }
+    ]
+}

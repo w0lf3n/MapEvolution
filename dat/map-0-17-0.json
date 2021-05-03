@@ -1,0 +1,47 @@
+{
+    "ver": "0.17.0",
+    "res": "map-0-17-0",
+    "loc": [
+        {
+            "id": "annies_house", "res": "annies_house_front01", "name": "Annie’s house",
+            "x": 344, "y": 59, "width": 74, "height": 74
+        },
+        {
+            "id": "beach_house", "res": "beach_house_front01", "name": "Beachhouse",
+            "x": 212, "y": 496, "width": 89, "height": 61
+        },
+        {
+            "id": "boat", "name": "Yacht",
+            "x": 109, "y": 702, "width": 114, "height": 51
+        },
+        {
+            "id": "dianes_house", "res": "dianes_barn01", "name": "Diane’s barn",
+            "x": 467, "y": 65, "width": 77, "height": 105,
+            "info": "Expansion of Diane’s house"
+        },
+        {
+            "id": "donut_shop", "res": "donut_shop01", "name": "Glazie’s",
+            "x": 982, "y": 222, "width": 38, "height": 103
+        },
+        {
+            "id": "lair", "res": "lair01", "name": "Lair",
+            "x": 12, "y": 673, "width": 78, "height": 70
+        },
+        {
+            "id": "rumps_house", "res": "mayor_rumps_frontyard01", "name": "Rump estate",
+            "x": 899, "y": 473, "width": 107, "height": 120
+        },
+        {
+            "id": "smiths_house", "res": "smiths_frontyard01", "name": "Mrs. Smith’s house",
+            "x": 344, "y": 269, "width": 54, "height": 115
+        },
+        {
+            "id": "trailer_park", "res": "trailer_park01", "name": "Trailer park",
+            "x": 3, "y": 294, "width": 62, "height": 95
+        },
+        {
+            "id": "treehouse", "res": "treehouse01", "name": "Treehouse",
+            "x": 805, "y": 512, "width": 48, "height": 59
+        }
+    ]
+}

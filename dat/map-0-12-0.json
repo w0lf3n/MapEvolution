@@ -1,0 +1,30 @@
+{
+    "ver": "0.12.0",
+    "res": "map-0-12-0",
+    "loc": [
+        {
+            "id": "boat", "res": "boat_bridge01", "name": "Yacht",
+            "x": 59, "y": 694, "width": 114, "height": 51
+        },
+        {
+            "id": "church", "res": "church_front01", "name": "Church",
+            "x": 588, "y": 48, "width": 51, "height": 113
+        },
+        {
+            "id": "forest", "res": "forest01", "name": "Forest",
+            "x": 0, "y": 107, "width": 95, "height": 182
+        },
+        {
+            "id": "hill", "res": "hill01", "name": "Raven Hill",
+            "x": 692, "y": -3, "width": 143, "height": 113
+        },
+        {
+            "id": "pier", "res": "pier02", "name": "Pier",
+            "x": 58, "y": 529, "width": 77, "height": 130
+        },
+        {
+            "id": "police", "res": "police_parking_lot01", "name": "Police station",
+            "x": 834, "y": 227, "width": 120, "height": 89
+        }
+    ]
+}
