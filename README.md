@@ -2,7 +2,9 @@
 An animation showing the evolution of the Summertime Saga city map.
 
 ## Features
-* when locations and rooms were added and changed
+* when locations were added to the map
+  * if they are accessible
+* when rooms were added to locations and were changed
 * some additional information
 * includes version 0.01.0 - 0.07.0
 
