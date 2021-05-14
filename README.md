@@ -10,4 +10,5 @@ An animation showing the evolution of the Summertime Saga city map.
 
 More versions and content information will be added in the future.
 
-[Have a look](https://w0lf3n.github.io/MapEvolution/)
+## Demo
+[https://w0lf3n.github.io/MapEvolution/](https://w0lf3n.github.io/MapEvolution/)
