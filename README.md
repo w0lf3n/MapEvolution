@@ -7,4 +7,5 @@ An animation showing the evolution of the Summertime Saga city map.
 * includes version 0.01.0 - 0.07.0
 
 More versions and content information will be added in the future.
+
 [Have a look](https://w0lf3n.github.io/MapEvolution/)
