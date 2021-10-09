@@ -37,10 +37,10 @@
     background-image: linear-gradient(to bottom, #59f9df, #0573f3);
     position: absolute;
     left: 365px;
-    top: 255px;
+    top: 257px;
     font-weight: bold;
     color: transparent;
-    transform: rotate(-8deg);
+    transform: rotate(-9deg);
 }
 .Welcome .Subtitle {
     font-size: 3em;
@@ -78,7 +78,6 @@
 .TitleBox {
     background-image: linear-gradient(to right, transparent, rgba(255, 255, 255, 0.8) 25% 75%, transparent);
     padding: 10px 0;
-    font-size: 2em;
     font-family: serif;
     text-shadow: 2px 2px #ffffff;
     opacity: 0;
